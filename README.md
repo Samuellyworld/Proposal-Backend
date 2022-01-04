@@ -19,7 +19,7 @@
 ```
 - demo preview for [post request](https://github.com/samuellyworld/Proposal-Backend/blob/master/images/post.png?raw=true)
 
-- For `GET` request, use `localhost:3000/data` url with method `GET` on `POST`
+- For `GET` request, use `localhost:3000/data` url with method `GET` on `POSTMAN`
 
 - demo preview for [get request](https://github.com/samuellyworld/Proposal-Backend/blob/master/images/get.png?raw=true)
 
@@ -29,5 +29,4 @@
 
 - `npm run dev` to start app for development 
  
-- Proposal API at - [Choice-Proposal](https://choice-coin-proposal.netlify.app/);
-
+- Proposal API at - [Choice-Proposal](https://choice-coin-proposal.netlify.app/)
