@@ -7,7 +7,7 @@
 
 - for `server.js` connectionString to work, make sure you have a mongodb installed.
 
-- open `POSTMAN` to test the two endpoints
+- open [Postman](https://www.postman.com/) to test the two endpoints 
 
 - for `POST` request, make sure you have send the data in `JSON` format with `localhost:3000/data` url
 
