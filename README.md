@@ -29,4 +29,4 @@
 
 - `npm run dev` to start app for development 
  
-- Proposal API at - [Choice-Proposal](https://choice-proposal-backend.herokuapp.com/)
+- Proposal API at - [Choice-Proposal-Backend](https://choice-proposal-backend.herokuapp.com/)
