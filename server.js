@@ -6,7 +6,6 @@ const proposal = require('./src/controller');
 const mongoose = require('mongoose');
 const connectionString =  process.env.MONGODB_URI || "mongodb://localhost/proposals";
 
-// const connectionString = "mongodb+srv://samuel:dopamine@cluster0.qp0jt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
 // Connecting to the database
 mongoose.connect(connectionString, {
