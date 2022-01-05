@@ -29,4 +29,4 @@
 
 - `npm run dev` to start app for development 
  
-- Proposal API at - [Choice-Proposal](https://choice-coin-proposal.netlify.app/)
+- Proposal API at - [Choice-Proposal](https://choice-proposal-backend.herokuapp.com/)
