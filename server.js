@@ -1,5 +1,7 @@
-const express = require("express");
+const express = require("express"); 
+const cors = require("cors");
 const proposal = require('./src/controller');
+
 
 
 // Configuring database
@@ -25,6 +27,7 @@ const app = express();
 
 // middlewares
 app.use(express.json());
+app.use(cors());
 
 // Home Url 
 app.get('/', (req,res) => {
